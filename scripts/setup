@@ -1,0 +1,2 @@
+#!/bin/bash
+mongo todo insert_data.js
