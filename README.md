@@ -15,3 +15,5 @@
     - Gradle 4.4
 
 何かのご参考になれば幸いです。
+
+ちなみに関連記事は[こちら](https://qiita.com/Kaoru_Yamamoto/items/d43a10a7cbdd7e5d7b6b)。
